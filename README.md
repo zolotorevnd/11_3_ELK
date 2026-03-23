@@ -28,7 +28,7 @@
 
 ### Решение 3
 
-img src = "img/nginx_logs.png" width = 100%>
+<img src = "img/nginx_logs.png" width = 100%>
 
 
 ### Задание 4
@@ -39,4 +39,4 @@ img src = "img/nginx_logs.png" width = 100%>
 
 ### Решение 4
 
-img src = "img/filebeat.png" width = 100%>
+<img src = "img/filebeat.png" width = 100%>
